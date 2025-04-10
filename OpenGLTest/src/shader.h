@@ -104,6 +104,6 @@ public:
 	}
 };
 
-
+ 
 #endif // !SHADER_H
 
